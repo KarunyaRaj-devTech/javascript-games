@@ -51,6 +51,14 @@ snake-game (coming soon)
 
 ---
 
+## Live Demo
+
+Play the game here:
+
+https://karunyaraj-devtech.github.io/javascript-games/tic-tac-toe/
+
+---
+
 ## Author
 
 Karunyaraj  

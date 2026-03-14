@@ -11,14 +11,22 @@
 
 <h1>🐍 Snake Game</h1>
 
-<p id="score">Score: 0</p>
+<div class="scoreboard">
+Score: <span id="score">0</span>
+</div>
 
 <canvas id="gameCanvas" width="400" height="400"></canvas>
 
+<div id="gameOver" class="hidden">
+<h2>Game Over</h2>
 <button onclick="restartGame()">Restart</button>
+</div>
+
+<p class="controls">
+Use Arrow Keys to Move
+</p>
 
 <script src="script.js"></script>
 
 </body>
-
 </html>
